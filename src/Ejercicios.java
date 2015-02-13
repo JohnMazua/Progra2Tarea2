@@ -4,7 +4,7 @@ public class Ejercicios {
 		public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		Rectangulo rectangulo = new Rectangulo(10,5);
+		Rectangulo rectangulo = new Rectangulo(10,20);
 		PentagonoRegular pentagono = new PentagonoRegular(10);
 		
 		System.out.println("El area del rectangulo es: "+rectangulo.getArea());
