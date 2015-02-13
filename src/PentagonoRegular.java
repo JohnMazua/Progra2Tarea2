@@ -21,5 +21,4 @@ public class PentagonoRegular {
 	{
 		return lado*5;
 	}
-
 }
